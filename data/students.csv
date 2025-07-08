@@ -1,0 +1,16 @@
+first_name,middle_name,last_name,email,phone,dob,gender,student_id,entry_year,course,semester,marks
+Anjali,,Rao,anjali1@gmail.com,9876543210,2003-07-14,Female,S1001,2022,BCA,I,550
+Rahul,,Sharma,rahul1@gmail.com,9999999999,2002-06-21,Male,S1002,2021,BSc,III,580
+Tejas,Kumar,Verma,tejas1@outlook.com,8888888888,2001-01-10,Male,S1003,2020,BSc,IV,595
+Meera,,Nair,meera1@gmail.com,9898989898,2003-12-15,Female,S1004,2022,BCom,II,560
+Ajay,,Menon,ajay1@gmail.com,9871234567,2002-04-04,Male,S1005,2021,BCA,IV,540
+Nisha,,Pillai,nisha1@gmail.com,9945678123,2003-08-23,Female,S1006,2022,BSc,I,590
+Rohit,,Joshi,rohit1@gmail.com,9856783456,2001-11-30,Male,S1007,2020,BCom,V,510
+Divya,,Patil,divya1@gmail.com,9812312312,2003-09-25,Female,S1008,2022,BCA,II,600
+Karan,,Kapoor,karan1@gmail.com,9797979797,2002-01-15,Male,S1009,2021,BSc,III,565
+Sneha,,Mali,sneha1@gmail.com,9734567890,2003-10-10,Female,S1010,2022,BCom,I,585
+Ravi,,Desai,ravi1@gmail.com,9876781234,2001-07-19,Male,S1011,2020,BCA,VI,520
+Isha,,Rane,isha1@gmail.com,9845123678,2002-05-20,Female,S1012,2021,BSc,IV,570
+Vikram,,Gupta,vikram1@gmail.com,9871234987,2002-02-11,Male,S1013,2021,BCom,III,530
+Aarti,,Jain,aarti1@gmail.com,9834567890,2003-06-30,Female,S1014,2022,BCA,I,590
+Yash,,Malhotra,yash1@gmail.com,9867123456,2001-09-09,Male,S1015,2020,BSc,V,555
